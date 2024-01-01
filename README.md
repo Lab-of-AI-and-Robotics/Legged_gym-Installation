@@ -1,6 +1,6 @@
 # Legged_gym-Installation
 
-   Last updae 2023.12.29 by Daegeol Ko
+   Last update 2023.12.29 by Daegeol Ko, UNIST
 
    <h3><strong>Before you start, you have to check install Anaconda and Graphic Driver</strong></h3>
 
